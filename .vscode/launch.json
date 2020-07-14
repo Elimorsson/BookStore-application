@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BookStoreRunner",
+            "request": "launch",
+            "mainClass": "bgu.spl.mics.application.BookStoreRunner"
+        }
+    ]
+}
